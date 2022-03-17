@@ -1,0 +1,7 @@
+.country{
+    background-color: rgba(218, 165, 32, 0.26);
+    margin: 2em 5em;
+    padding: 20px ;
+    border: 15px solid gold;
+    box-shadow: 6px 6px 4px  rgba(29, 46, 54, 0.219);
+}
